@@ -11,5 +11,5 @@ FairDCF enforces consistency constraints in both the representation and predicti
 Extensive experiments on multiple real-world benchmark datasets demonstrate that FairDCF achieves competitive or superior predictive performance compared to existing methods, while effectively ensuring group fairness.
 
 <p align="center">
-  <img src="[hmodel.png](https://github.com/Vee717/FairDCF/blob/main/model.png)" width="550" title="hover text">
+  <img src="model.png" width="550" title="hover text">
 </p>
