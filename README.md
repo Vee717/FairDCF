@@ -9,3 +9,7 @@ pseudo-sensitive attributes from graph structure. Based on this formulation, Fai
 decouples node information prior to perturbing the inferred pseudo-sensitive attributes. To learn fair graph representations,
 FairDCF enforces consistency constraints in both the representation and prediction spaces, ensuring invariance under counterfactual changes in sensitive attributes.
 Extensive experiments on multiple real-world benchmark datasets demonstrate that FairDCF achieves competitive or superior predictive performance compared to existing methods, while effectively ensuring group fairness.
+
+<p align="center">
+  <img src="hmodel.png" width="550" title="hover text">
+</p>
